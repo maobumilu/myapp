@@ -1,0 +1,17 @@
+{
+    
+    "results": [
+        {
+            "name": "img1",
+            "url": "https://raw.githubusercontent.com/maobumilu/myapp/refs/heads/main/img1.jpg"
+        },
+        {
+            "name": "img2",
+            "url": "https://raw.githubusercontent.com/maobumilu/myapp/refs/heads/main/img2.jpg"
+        },
+        {
+            "name": "img3",
+            "url": "https://raw.githubusercontent.com/maobumilu/myapp/refs/heads/main/img3.jpg"
+        }
+    ]
+}
